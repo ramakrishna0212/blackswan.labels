@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #111;
+    background-color: rgb(255, 255, 255);
+}
+body{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.v2l{
+    border-left: 75px solid rgb(0 0 0);
+    height: 54px;
+    margin-top: 22%;
+    margin-left: 79%;
+}
+.bg{
+    font-size: x-small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 30% 0% -27px;
+    position: fixed;
+}
+.h4{
+    width: 104%;
+    height: 1px;
+    background-color: #111;
+    margin-left: -3%;
+    margin-top: -1px;
+}
+.video{
+    padding-left: 9%;
+    padding-top: 8%;
+}
+.audio{
+    margin-top: -1%;
+    padding-left: 81%;
+    font-size: initial;
+}
+.by{
+    padding-left: 9%;
+    padding-top: 104Px;
+    font-size: 83px;
+    line-height: 1.16;
+    letter-spacing: 2.02px;
+}
+.middle{
+    position: absolute;
+    top: 140%;
+    left: 9%;
+    width: 55%;
+    line-height: 48px;
+}
+.logo{
+    margin-top: -6%;
+    padding-left: 56%;
+}
+.symbol{
+    margin-top: 7%;
+    padding-left: 43%;
+    font-size: medium;
+}
+
+.vl{
+    border-left: 2px solid rgb(0, 0, 0);
+    height: 680px;
+    margin-top: -7%;
+    margin-left: 414px;
+    position: fixed;
+}
+hr{
+    display: block;
+    width: 1015px;
+    height: 1px;
+    background-color: #111;
+    margin: 112px 0px 14px 415px;
+}
+.rights{
+    color: #000000d9;
+    font-weight: bold;
+    font-size: x-small;
+    position: absolute;
+    top: 298%;
+    left: 2%;
+    width: 55%;
+}
